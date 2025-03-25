@@ -44,35 +44,6 @@ The dataset consists of auction results from **Fast Iron**, a company specializi
    - Saving the trained model using `pickle/joblib`
    - Deploying via Flask API (optional)
 
-## 📂 Repository Structure
-
-```
-📂 bulldozer-price-prediction
-│-- 📂 data/                  # Raw & Processed Data
-│-- 📂 notebooks/             # Jupyter Notebooks for EDA & Modeling
-│-- 📂 models/                # Saved ML Models
-│-- 📂 src/                   # Codebase for training and inference
-│-- 📜 requirements.txt       # Dependencies
-│-- 📜 README.md              # Project Documentation
-│-- 📜 app.py                 # Flask API for Predictions (Optional)
-```
-
-## 🚀 Installation & Usage
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/bulldozer-price-prediction.git  
-cd bulldozer-price-prediction  
-
-# Install dependencies
-pip install -r requirements.txt  
-
-# Run Jupyter Notebook
-jupyter notebook  
-
-# Run the Flask API for predictions (if included)
-python app.py  
-```
 
 ## 📈 Model Performance
 
@@ -83,11 +54,6 @@ python app.py
 
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 🚜 **Predict Bulldozer Prices with Machine Learning!** 📊
 
